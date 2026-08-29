@@ -1,0 +1,56 @@
+about:
+  description: MCP Server for Computer Use in Windows
+  license: MIT
+  homepage: 
+  head: 83e17f6
+  archived: false
+  latestVersion: v0.8.5
+  collectedAt: 2026-08-29T06:13:17Z
+timeline:
+  created: 2025-05-13
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-01
+popularity:
+  star: 6843
+  watcher: 42
+  fork: 830
+  release: 15
+  contributor: 43
+  pullRequest: 64
+  issue: 143
+language:
+  Python: 1189776
+totalLine: 1189776
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 1
+    mergedPR: 21
+    openPR: 1
+    closedIssue: 7
+    openIssue: 7
+    commit: 37
+  last90d:
+    since: 2026-05-31
+    release: 2
+    mergedPR: 55
+    openPR: 5
+    closedIssue: 24
+    openIssue: 10
+    commit: 103
+  last180d:
+    since: 2026-03-02
+    release: 8
+    mergedPR: 150
+    openPR: 5
+    closedIssue: 70
+    openIssue: 11
+    commit: 333
+  last360d:
+    since: 2025-09-03
+    release: 12
+    mergedPR: 164
+    openPR: 5
+    closedIssue: 106
+    openIssue: 11
+    commit: 457
