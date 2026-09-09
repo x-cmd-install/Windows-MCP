@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 211026,
       "digest": "sha256:a68dff0a493b620cf0febdb5b31cf140199e5d54fa8b737dfadb4aa73100630d",
-      "download_count": 150,
+      "download_count": 151,
       "created_at": "2026-08-01T07:25:17Z",
       "updated_at": "2026-08-01T07:25:17Z",
       "browser_download_url": "https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.5/windows_mcp-0.8.5-py3-none-any.whl"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 238669,
       "digest": "sha256:ee9ccd0dd8fe06e519da601a24fc649d7ea2895dc4deb0f380f07020ea1a9b5e",
-      "download_count": 122,
+      "download_count": 123,
       "created_at": "2026-08-01T07:25:17Z",
       "updated_at": "2026-08-01T07:25:17Z",
       "browser_download_url": "https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.5/windows_mcp-0.8.5.tar.gz"
