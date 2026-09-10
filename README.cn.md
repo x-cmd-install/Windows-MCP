@@ -4,7 +4,7 @@
 
 MCP Server for Computer Use in Windows
 
-![Windows-MCP](https://repo.x-cmd.io/Windows-MCP.svg)
+![Windows-MCP](https://repo.x-cmd.io/Windows-MCP.svg?lang=zh)
 
 ## 安装
 
@@ -22,23 +22,31 @@ x install Windows-MCP
 - **最新版本**: `v0.8.5` (2026-08-01)
 - **最近提交**: 2026-09-06
 - **Release 含资产**: 4 个
-- **发布时间**: 2026-08-01T07:25:17Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [windows_mcp-0.8.5-py3-none-any.whl](https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.5/windows_mcp-0.8.5-py3-none-any.whl) | 206.1 KiB | `native/win/x64` |
+| [windows_mcp-0.8.5-py3-none-any.whl.publish.attestation](https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.5/windows_mcp-0.8.5-py3-none-any.whl.publish.attestation) | 9.3 KiB | `native/win/x64` |
+| [windows_mcp-0.8.5.tar.gz](https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.5/windows_mcp-0.8.5.tar.gz) | 233.1 KiB | `native/win/x64` |
+| [windows_mcp-0.8.5.tar.gz.publish.attestation](https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.5/windows_mcp-0.8.5.tar.gz.publish.attestation) | 9.3 KiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 6,957 · **Fork**: 838 · **开放 issue**: 146 · **贡献者**: 44
+- **Star**: 6,964 · **Fork**: 837 · **开放 issue**: 146 · **贡献者**: 44
 
 ## 累计统计
 
-- **发布数**: 15 · **已合并 PR**: 173 · **开放 PR**: 5 · **已关闭 issue**: 132 · **开放 issue**: 14 · **提交数**: 734
+- **发布数**: 15 · **已合并 PR**: 173 · **开放 PR**: 6 · **已关闭 issue**: 132 · **开放 issue**: 14 · **提交数**: 734
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 16 | 1 | 3 | 6 | 16 |
-| 90d | 2026-06-12 | 1 | 49 | 5 | 23 | 12 | 87 |
-| 360d | 2025-09-15 | 12 | 168 | 5 | 106 | 13 | 454 |
+| 30d | 2026-08-11 | 0 | 16 | 2 | 3 | 6 | 16 |
+| 90d | 2026-06-12 | 1 | 49 | 6 | 23 | 12 | 87 |
+| 360d | 2025-09-15 | 12 | 168 | 6 | 106 | 13 | 454 |
 
 ## 代码规模
 
@@ -60,4 +68,4 @@ Windows-MCP 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:15:57Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:08:46Z._
