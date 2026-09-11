@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.5"
   latestRelease: "v0.8.5"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:00:45Z
+  collectedAt: 2026-09-11T05:14:11Z
 timeline:
   created: 2025-05-13
   lastCommit: 2026-09-06
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-01
   lastPrerelease: 
 popularity:
-  star: 6965
+  star: 6967
   watcher: 42
   fork: 837
   release: 15
@@ -83,7 +83,7 @@ total:
   commit: 734
 ---
 path: /home/runner/.x-repo/github.com/CursorTouch/Windows-MCP
-collectedAt: 2026-09-11T00:00:48Z
+collectedAt: 2026-09-11T05:14:12Z
 loc:
   Python:
     code: 27135
