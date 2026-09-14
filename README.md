@@ -36,7 +36,7 @@ Total: **27,403** lines of code across **120** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,983 · **Forks**: 837 · **Open issues**: 148 · **Contributors**: 44
+- **Stars**: 6,992 · **Forks**: 839 · **Open issues**: 148 · **Contributors**: 44
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **27,403** lines of code across **120** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 16 | 1 | 3 | 8 | 14 |
-| last60d | 2026-07-15 | 1 | 34 | 3 | 11 | 12 | 49 |
-| 90d | 2026-06-15 | 1 | 47 | 5 | 23 | 14 | 81 |
-| last180d | 2026-03-17 | 7 | 144 | 5 | 60 | 15 | 303 |
-| 360d | 2025-09-18 | 12 | 169 | 5 | 104 | 15 | 453 |
-| last720d | 2024-09-23 | 15 | 174 | 5 | 132 | 16 | 735 |
+| 30d | 2026-08-15 | 0 | 16 | 1 | 3 | 8 | 14 |
+| last60d | 2026-07-16 | 1 | 34 | 3 | 11 | 12 | 49 |
+| 90d | 2026-06-16 | 1 | 47 | 5 | 22 | 14 | 81 |
+| last180d | 2026-03-18 | 6 | 144 | 5 | 60 | 15 | 303 |
+| 360d | 2025-09-19 | 12 | 169 | 5 | 104 | 15 | 453 |
+| last720d | 2024-09-24 | 15 | 174 | 5 | 132 | 16 | 735 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for Windows-MCP lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:16:27Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:26:17Z._
