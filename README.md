@@ -4,7 +4,7 @@
 
 MCP Server for Computer Use in Windows
 
-[![x-cmd/install — Windows-MCP Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Windows-MCP.svg)](https://x-cmd.com/install/Windows-MCP)
+[![x-cmd/install — Windows-MCP Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/Windows-MCP.svg)](https://x-cmd.com/install/Windows-MCP)
 
 ## Install
 
@@ -36,7 +36,7 @@ Total: **27,403** lines of code across **120** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,072 · **Forks**: 849 · **Open issues**: 153 · **Contributors**: 45
+- **Stars**: 7,108 · **Forks**: 853 · **Open issues**: 153 · **Contributors**: 45
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **27,403** lines of code across **120** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 12 | 1 | 2 | 10 | 9 |
-| last60d | 2026-07-24 | 1 | 29 | 3 | 9 | 15 | 49 |
-| 90d | 2026-06-24 | 1 | 44 | 6 | 22 | 18 | 77 |
-| last180d | 2026-03-26 | 6 | 119 | 6 | 54 | 19 | 252 |
-| 360d | 2025-09-27 | 12 | 173 | 6 | 101 | 19 | 453 |
-| last720d | 2024-10-02 | 15 | 178 | 6 | 133 | 20 | 735 |
+| 30d | 2026-08-24 | 0 | 11 | 1 | 1 | 10 | 9 |
+| last60d | 2026-07-25 | 1 | 29 | 2 | 8 | 15 | 49 |
+| 90d | 2026-06-25 | 1 | 44 | 6 | 22 | 18 | 77 |
+| last180d | 2026-03-27 | 6 | 117 | 6 | 53 | 19 | 252 |
+| 360d | 2025-09-28 | 12 | 173 | 6 | 101 | 19 | 453 |
+| last720d | 2024-10-03 | 15 | 178 | 6 | 133 | 20 | 735 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for Windows-MCP lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:36:28Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:39:41Z._
