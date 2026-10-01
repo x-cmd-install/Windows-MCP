@@ -14,11 +14,11 @@ x install Windows-MCP
 
 ## 代码洞察
 
-合计: **27,788** 行代码（覆盖前 5 种语言、共 **125** 个文件）。
+合计: **28,048** 行代码（覆盖前 5 种语言、共 **126** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 27,512 | 686 | 4,316 | 117 |
+| Python | 27,772 | 688 | 4,402 | 118 |
 | Json | 205 | 0 | 0 | 2 |
 | Toml | 71 | 0 | 11 | 1 |
 | Markdown | 0 | 928 | 437 | 5 |
@@ -30,37 +30,37 @@ x install Windows-MCP
 
 ## 发布
 
-- **最新版本**: `v0.8.6` (2026-09-26)
-- **最近提交**: 2026-09-29
+- **最新版本**: `v0.8.7` (2026-09-30)
+- **最近提交**: 2026-09-30
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 7,521 · **Fork**: 891 · **开放 issue**: 155 · **贡献者**: 49
+- **Star**: 7,566 · **Fork**: 893 · **开放 issue**: 160 · **贡献者**: 49
 
 ## 累计统计
 
-- **发布数**: 16 · **已合并 PR**: 188 · **开放 PR**: 6 · **已关闭 issue**: 136 · **开放 issue**: 19 · **提交数**: 746
+- **发布数**: 17 · **已合并 PR**: 190 · **开放 PR**: 5 · **已关闭 issue**: 136 · **开放 issue**: 24 · **提交数**: 750
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 1 | 14 | 1 | 3 | 7 | 14 |
-| last60d | 2026-08-01 | 2 | 31 | 2 | 10 | 13 | 44 |
-| 90d | 2026-07-02 | 2 | 52 | 6 | 23 | 16 | 81 |
-| last180d | 2026-04-03 | 6 | 119 | 6 | 47 | 18 | 244 |
-| 360d | 2025-10-05 | 13 | 183 | 6 | 102 | 18 | 461 |
-| last720d | 2024-10-10 | 16 | 188 | 6 | 136 | 19 | 746 |
+| 30d | 2026-09-01 | 2 | 15 | 0 | 3 | 12 | 18 |
+| last60d | 2026-08-02 | 2 | 33 | 1 | 10 | 18 | 48 |
+| 90d | 2026-07-03 | 3 | 54 | 5 | 23 | 21 | 85 |
+| last180d | 2026-04-04 | 7 | 121 | 5 | 45 | 23 | 248 |
+| 360d | 2025-10-06 | 14 | 185 | 5 | 101 | 23 | 465 |
+| last720d | 2024-10-11 | 17 | 190 | 5 | 136 | 24 | 750 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [windows_mcp-0.8.6-py3-none-any.whl](https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.6/windows_mcp-0.8.6-py3-none-any.whl) | 218.0 KiB | `native/win/x64` |
-| [windows_mcp-0.8.6-py3-none-any.whl.publish.attestation](https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.6/windows_mcp-0.8.6-py3-none-any.whl.publish.attestation) | 9.5 KiB | `native/win/x64` |
-| [windows_mcp-0.8.6.tar.gz](https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.6/windows_mcp-0.8.6.tar.gz) | 271.9 KiB | `native/win/x64` |
-| [windows_mcp-0.8.6.tar.gz.publish.attestation](https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.6/windows_mcp-0.8.6.tar.gz.publish.attestation) | 9.4 KiB | `native/win/x64` |
+| [windows_mcp-0.8.7-py3-none-any.whl](https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.7/windows_mcp-0.8.7-py3-none-any.whl) | 220.1 KiB | `native/win/x64` |
+| [windows_mcp-0.8.7-py3-none-any.whl.publish.attestation](https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.7/windows_mcp-0.8.7-py3-none-any.whl.publish.attestation) | 9.4 KiB | `native/win/x64` |
+| [windows_mcp-0.8.7.tar.gz](https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.7/windows_mcp-0.8.7.tar.gz) | 279.1 KiB | `native/win/x64` |
+| [windows_mcp-0.8.7.tar.gz.publish.attestation](https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.7/windows_mcp-0.8.7.tar.gz.publish.attestation) | 9.3 KiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -71,4 +71,4 @@ Windows-MCP 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T05:57:27Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T06:26:24Z._
