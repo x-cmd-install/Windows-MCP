@@ -14,14 +14,14 @@ x install Windows-MCP
 
 ## Code insight
 
-Total: **32,662** lines of code across **149** files in the top 5 languages.
+Total: **32,972** lines of code across **150** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 32,382 | 821 | 5,181 | 141 |
+| Python | 32,692 | 839 | 5,263 | 142 |
 | Json | 209 | 0 | 0 | 2 |
 | Toml | 71 | 0 | 11 | 1 |
-| Markdown | 0 | 930 | 437 | 5 |
+| Markdown | 0 | 942 | 445 | 5 |
 
 ## Source
 
@@ -36,22 +36,22 @@ Total: **32,662** lines of code across **149** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,735 · **Forks**: 905 · **Open issues**: 161 · **Contributors**: 51
+- **Stars**: 8,130 · **Forks**: 913 · **Open issues**: 162 · **Contributors**: 51
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 198 · **Open PRs**: 5 · **Closed issues**: 143 · **Open issues**: 18 · **Commits**: 759
+- **Releases**: 17 · **Merged PRs**: 201 · **Open PRs**: 5 · **Closed issues**: 143 · **Open issues**: 19 · **Commits**: 762
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 2 | 21 | 0 | 9 | 7 | 25 |
-| last60d | 2026-08-08 | 2 | 38 | 1 | 15 | 12 | 42 |
-| 90d | 2026-07-09 | 3 | 60 | 4 | 30 | 15 | 83 |
-| last180d | 2026-04-10 | 7 | 121 | 5 | 47 | 17 | 243 |
-| 360d | 2025-10-12 | 14 | 193 | 5 | 108 | 17 | 465 |
-| last720d | 2024-10-17 | 17 | 198 | 5 | 143 | 18 | 759 |
+| 30d | 2026-09-08 | 2 | 24 | 0 | 9 | 6 | 28 |
+| last60d | 2026-08-09 | 2 | 41 | 1 | 14 | 11 | 45 |
+| 90d | 2026-07-10 | 3 | 62 | 4 | 23 | 16 | 86 |
+| last180d | 2026-04-11 | 7 | 121 | 5 | 47 | 18 | 246 |
+| 360d | 2025-10-13 | 14 | 193 | 5 | 108 | 18 | 468 |
+| last720d | 2024-10-18 | 17 | 201 | 5 | 143 | 19 | 762 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for Windows-MCP lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:18:23Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:29:27Z._
