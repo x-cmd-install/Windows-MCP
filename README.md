@@ -31,27 +31,27 @@ Total: **32,972** lines of code across **150** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.7` (2026-09-30)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-08
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 8,130 · **Forks**: 913 · **Open issues**: 162 · **Contributors**: 51
+- **Stars**: 8,369 · **Forks**: 926 · **Open issues**: 162 · **Contributors**: 51
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 201 · **Open PRs**: 5 · **Closed issues**: 143 · **Open issues**: 19 · **Commits**: 762
+- **Releases**: 17 · **Merged PRs**: 202 · **Open PRs**: 5 · **Closed issues**: 143 · **Open issues**: 19 · **Commits**: 763
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 2 | 24 | 0 | 9 | 6 | 28 |
-| last60d | 2026-08-09 | 2 | 41 | 1 | 14 | 11 | 45 |
-| 90d | 2026-07-10 | 3 | 62 | 4 | 23 | 16 | 86 |
-| last180d | 2026-04-11 | 7 | 121 | 5 | 47 | 18 | 246 |
-| 360d | 2025-10-13 | 14 | 193 | 5 | 108 | 18 | 468 |
-| last720d | 2024-10-18 | 17 | 201 | 5 | 143 | 19 | 762 |
+| 30d | 2026-09-09 | 2 | 25 | 0 | 9 | 6 | 29 |
+| last60d | 2026-08-10 | 2 | 42 | 1 | 14 | 11 | 46 |
+| 90d | 2026-07-11 | 3 | 61 | 4 | 21 | 16 | 87 |
+| last180d | 2026-04-12 | 7 | 122 | 5 | 46 | 18 | 247 |
+| 360d | 2025-10-14 | 14 | 194 | 5 | 108 | 18 | 469 |
+| last720d | 2024-10-19 | 17 | 202 | 5 | 143 | 19 | 763 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for Windows-MCP lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:29:27Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:31:08Z._
