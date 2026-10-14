@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 257859,
       "digest": "sha256:597ef720e1902ba76510a4d2b946949f8a48f281dd210c183de5ded60ea3b873",
-      "download_count": 131,
+      "download_count": 156,
       "created_at": "2026-10-10T01:33:57Z",
       "updated_at": "2026-10-10T01:33:57Z",
       "browser_download_url": "https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.8/windows_mcp-0.8.8-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9737,
       "digest": "sha256:7f800628ce032b6c91df35ab7f974bdf4d4e123921dab593f7f2a27a711dc270",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-10-10T01:33:57Z",
       "updated_at": "2026-10-10T01:33:57Z",
       "browser_download_url": "https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.8/windows_mcp-0.8.8-py3-none-any.whl.publish.attestation"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 341530,
       "digest": "sha256:f7aa1a020876aa3fe6a8b8d3c316002e28f4951e1d26a42099987a9ab7ba68a7",
-      "download_count": 88,
+      "download_count": 100,
       "created_at": "2026-10-10T01:33:57Z",
       "updated_at": "2026-10-10T01:33:57Z",
       "browser_download_url": "https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.8/windows_mcp-0.8.8.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9768,
       "digest": "sha256:0cb60d77e288525d65d15e536547c2e24d563114cad5809fa20d40f7767f1634",
-      "download_count": 18,
+      "download_count": 21,
       "created_at": "2026-10-10T01:33:57Z",
       "updated_at": "2026-10-10T01:33:57Z",
       "browser_download_url": "https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.8/windows_mcp-0.8.8.tar.gz.publish.attestation"
