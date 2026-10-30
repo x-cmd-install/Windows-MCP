@@ -14,11 +14,11 @@ x install Windows-MCP
 
 ## Code insight
 
-Total: **36,481** lines of code across **177** files in the top 5 languages.
+Total: **36,622** lines of code across **177** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 36,201 | 928 | 6,017 | 169 |
+| Python | 36,342 | 933 | 6,039 | 169 |
 | Json | 209 | 0 | 0 | 2 |
 | Toml | 71 | 0 | 11 | 1 |
 | Markdown | 0 | 1,025 | 472 | 5 |
@@ -31,27 +31,27 @@ Total: **36,481** lines of code across **177** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.8` (2026-10-10)
-- **Last commit**: 2026-10-27
+- **Last commit**: 2026-10-29
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 10,670 · **Forks**: 1,159 · **Open issues**: 182 · **Contributors**: 63
+- **Stars**: 10,740 · **Forks**: 1,166 · **Open issues**: 182 · **Contributors**: 64
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 238 · **Open PRs**: 4 · **Closed issues**: 157 · **Open issues**: 25 · **Commits**: 799
+- **Releases**: 18 · **Merged PRs**: 243 · **Open PRs**: 5 · **Closed issues**: 157 · **Open issues**: 25 · **Commits**: 804
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 2 | 48 | 3 | 17 | 9 | 47 |
-| last60d | 2026-08-30 | 3 | 64 | 3 | 22 | 15 | 66 |
-| 90d | 2026-07-31 | 4 | 84 | 3 | 30 | 19 | 98 |
-| last180d | 2026-05-02 | 7 | 145 | 4 | 54 | 24 | 237 |
-| 360d | 2025-11-03 | 15 | 227 | 4 | 117 | 24 | 495 |
-| last720d | 2024-11-08 | 18 | 238 | 4 | 157 | 25 | 799 |
+| 30d | 2026-09-30 | 2 | 52 | 4 | 17 | 9 | 52 |
+| last60d | 2026-08-31 | 3 | 68 | 4 | 22 | 14 | 71 |
+| 90d | 2026-08-01 | 4 | 85 | 4 | 30 | 19 | 103 |
+| last180d | 2026-05-03 | 7 | 150 | 5 | 54 | 24 | 242 |
+| 360d | 2025-11-04 | 15 | 232 | 5 | 117 | 24 | 500 |
+| last720d | 2024-11-09 | 18 | 243 | 5 | 157 | 25 | 804 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for Windows-MCP lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:11:38Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:15:23Z._
