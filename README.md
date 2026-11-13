@@ -14,11 +14,11 @@ x install Windows-MCP
 
 ## Code insight
 
-Total: **42,961** lines of code across **221** files in the top 5 languages.
+Total: **43,506** lines of code across **225** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 42,681 | 1,340 | 7,602 | 213 |
+| Python | 43,226 | 1,355 | 7,700 | 217 |
 | Json | 209 | 0 | 0 | 2 |
 | Toml | 71 | 0 | 11 | 1 |
 | Markdown | 0 | 1,048 | 475 | 5 |
@@ -30,37 +30,37 @@ Total: **42,961** lines of code across **221** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.8.8` (2026-10-10)
+- **Latest**: `v0.8.9` (2026-11-12)
 - **Last commit**: 2026-11-12
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 11,542 · **Forks**: 1,240 · **Open issues**: 195 · **Contributors**: 76
+- **Stars**: 11,592 · **Forks**: 1,243 · **Open issues**: 194 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 307 · **Open PRs**: 9 · **Closed issues**: 176 · **Open issues**: 19 · **Commits**: 868
+- **Releases**: 19 · **Merged PRs**: 313 · **Open PRs**: 13 · **Closed issues**: 175 · **Open issues**: 19 · **Commits**: 876
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 98 | 9 | 27 | 3 | 96 |
-| last60d | 2026-09-13 | 3 | 128 | 9 | 39 | 6 | 132 |
-| 90d | 2026-08-14 | 3 | 144 | 9 | 45 | 11 | 147 |
-| last180d | 2026-05-16 | 6 | 202 | 9 | 69 | 17 | 256 |
-| 360d | 2025-11-17 | 15 | 296 | 9 | 135 | 18 | 562 |
-| last720d | 2024-11-22 | 18 | 307 | 9 | 176 | 19 | 868 |
+| 30d | 2026-10-14 | 1 | 103 | 13 | 27 | 3 | 104 |
+| last60d | 2026-09-14 | 4 | 134 | 13 | 39 | 6 | 140 |
+| 90d | 2026-08-15 | 4 | 150 | 13 | 45 | 11 | 155 |
+| last180d | 2026-05-17 | 7 | 208 | 13 | 69 | 17 | 264 |
+| 360d | 2025-11-18 | 16 | 302 | 13 | 133 | 18 | 570 |
+| last720d | 2024-11-23 | 19 | 313 | 13 | 175 | 19 | 876 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [windows_mcp-0.8.8-py3-none-any.whl](https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.8/windows_mcp-0.8.8-py3-none-any.whl) | 251.8 KiB | `native/win/x64` |
-| [windows_mcp-0.8.8-py3-none-any.whl.publish.attestation](https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.8/windows_mcp-0.8.8-py3-none-any.whl.publish.attestation) | 9.5 KiB | `native/win/x64` |
-| [windows_mcp-0.8.8.tar.gz](https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.8/windows_mcp-0.8.8.tar.gz) | 333.5 KiB | `native/win/x64` |
-| [windows_mcp-0.8.8.tar.gz.publish.attestation](https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.8/windows_mcp-0.8.8.tar.gz.publish.attestation) | 9.5 KiB | `native/win/x64` |
+| [windows_mcp-0.8.9-py3-none-any.whl](https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.9/windows_mcp-0.8.9-py3-none-any.whl) | 299.8 KiB | `native/win/x64` |
+| [windows_mcp-0.8.9-py3-none-any.whl.publish.attestation](https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.9/windows_mcp-0.8.9-py3-none-any.whl.publish.attestation) | 9.6 KiB | `native/win/x64` |
+| [windows_mcp-0.8.9.tar.gz](https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.9/windows_mcp-0.8.9.tar.gz) | 474.4 KiB | `native/win/x64` |
+| [windows_mcp-0.8.9.tar.gz.publish.attestation](https://github.com/CursorTouch/Windows-MCP/releases/download/v0.8.9/windows_mcp-0.8.9.tar.gz.publish.attestation) | 9.6 KiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for Windows-MCP lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:50:13Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:20:37Z._
