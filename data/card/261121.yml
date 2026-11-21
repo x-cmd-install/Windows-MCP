@@ -1,0 +1,115 @@
+about:
+  description: "MCP Server for Computer Use in Windows"
+  license: MIT
+  homepage: 
+  head: dba6528
+  archived: false
+  latestVersion: "v0.8.9"
+  latestRelease: "v0.8.9"
+  latestPrerelease: ""
+  collectedAt: 2026-11-21T08:13:10Z
+timeline:
+  created: 2025-05-13
+  lastCommit: 2026-11-20
+  lastVersion: 2026-11-12
+  lastRelease: 2026-11-12
+  lastPrerelease: 
+popularity:
+  star: 11967
+  watcher: 51
+  fork: 1279
+  release: 19
+  contributor: 80
+  pullRequest: 421
+  issue: 194
+language:
+  Python: 2050987
+totalBytes: 2050987
+recent:
+  last30d:
+    since: 2026-10-22
+    release: 1
+    mergedPR: 106
+    openPR: 10
+    closedIssue: 20
+    openIssue: 4
+    commit: 0
+  last60d:
+    since: 2026-09-22
+    release: 4
+    mergedPR: 152
+    openPR: 10
+    closedIssue: 37
+    openIssue: 6
+    commit: 0
+  last90d:
+    since: 2026-08-23
+    release: 4
+    mergedPR: 164
+    openPR: 10
+    closedIssue: 45
+    openIssue: 10
+    commit: 0
+  last180d:
+    since: 2026-05-25
+    release: 6
+    mergedPR: 215
+    openPR: 10
+    closedIssue: 70
+    openIssue: 17
+    commit: 0
+  last360d:
+    since: 2025-11-26
+    release: 16
+    mergedPR: 320
+    openPR: 10
+    closedIssue: 132
+    openIssue: 18
+    commit: 0
+  last720d:
+    since: 2024-12-01
+    release: 19
+    mergedPR: 331
+    openPR: 10
+    closedIssue: 175
+    openIssue: 19
+    commit: 894
+total:
+  release: 19
+  mergedPR: 331
+  openPR: 10
+  closedIssue: 175
+  openIssue: 19
+  commit: 894
+---
+path: /home/runner/.x-repo/github.com/CursorTouch/Windows-MCP
+collectedAt: 2026-11-21T08:13:12Z
+loc:
+  Python:
+    code: 44899
+    comments: 1499
+    blanks: 8066
+    files: 222
+  Json:
+    code: 209
+    comments: 0
+    blanks: 0
+    files: 2
+  Toml:
+    code: 71
+    comments: 0
+    blanks: 11
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1058
+    blanks: 481
+    files: 5
+total:
+  code: 45467
+  comments: 2561
+  blanks: 8565
+  files: 230
+---
+
+---
