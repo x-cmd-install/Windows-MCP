@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 318475,
       "digest": "sha256:f9e464e2e3edc48daee67f51568a15a1b283a4efd84caece5bd433dfed6c1682",
-      "download_count": 13,
+      "download_count": 48,
       "created_at": "2026-11-22T00:07:06Z",
       "updated_at": "2026-11-22T00:07:06Z",
       "browser_download_url": "https://github.com/CursorTouch/Windows-MCP/releases/download/v0.9.0/windows_mcp-0.9.0-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9514,
       "digest": "sha256:15726acee00b77bba372476a1adc7d2935a96802290f1078734c3ad15f44b876",
-      "download_count": 3,
+      "download_count": 9,
       "created_at": "2026-11-22T00:07:06Z",
       "updated_at": "2026-11-22T00:07:06Z",
       "browser_download_url": "https://github.com/CursorTouch/Windows-MCP/releases/download/v0.9.0/windows_mcp-0.9.0-py3-none-any.whl.publish.attestation"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 521645,
       "digest": "sha256:756dbf65a4c3df180b4f046b90b9e4bd35bfead968e0670ed6079123ec6b8d61",
-      "download_count": 4,
+      "download_count": 15,
       "created_at": "2026-11-22T00:07:06Z",
       "updated_at": "2026-11-22T00:07:06Z",
       "browser_download_url": "https://github.com/CursorTouch/Windows-MCP/releases/download/v0.9.0/windows_mcp-0.9.0.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9412,
       "digest": "sha256:abcf207d6baaf482d509092d4e08a24e305ab3628332d3cb77dae7fd24b8c278",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-11-22T00:07:06Z",
       "updated_at": "2026-11-22T00:07:06Z",
       "browser_download_url": "https://github.com/CursorTouch/Windows-MCP/releases/download/v0.9.0/windows_mcp-0.9.0.tar.gz.publish.attestation"
